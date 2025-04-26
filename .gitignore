@@ -1,0 +1,11 @@
+# Ignorar ficheiros do Visual Studio
+.vs/
+bin/
+obj/
+*.user
+*.suo
+*.cache
+*.log
+*.dbmdl
+*.pdb
+*.vscode/
